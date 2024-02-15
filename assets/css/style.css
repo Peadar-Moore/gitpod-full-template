@@ -20,6 +20,10 @@ body {
     font-family: "Lato", san-serif;
 }
  
+h1 {
+    font-family: "Oswald", sans-serif;
+}
+
 /*Header*/
 header {
     background-color:aqua;
