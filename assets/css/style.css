@@ -1,3 +1,6 @@
+
+
+
 /*Asterisk wildcard selector to override default styles added by the browser*/
 * {
     padding: 0;
@@ -5,13 +8,15 @@
     box-sizing: border-box;
 
 }
+
 /* General styles*/
 body {
-    min-height: 100vh;
+  min-height: 100vh;
     display: flex;
     flex-direction: column;
     /*Generic project styles*/
-    color: #3a3a3a;
+    color: #3a3a3a; 
+    font-family: "Lato", san-serif;
 }
  
 /*Header*/
